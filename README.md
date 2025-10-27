@@ -78,7 +78,6 @@ housinghub-future-nest/
 │   │   ├── StatsSection.tsx   # Animated counters & trust logos
 │   │   ├── FeaturesSection.tsx # 6 feature cards
 │   │   ├── HowItWorksSection.tsx # 6-step process
-│   │   ├── SecuritySection.tsx # Trust & security section
 │   │   ├── PricingSection.tsx  # 3 pricing tiers
 │   │   ├── TestimonialsSection.tsx # User reviews
 │   │   ├── FAQSection.tsx      # 8 Q&As in accordion
