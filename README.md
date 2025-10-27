@@ -154,6 +154,8 @@ This project is ready to deploy on:
 - GitHub Pages
 - Any static hosting service
 
+## <a href="https://housinghubapp.netlify.app/">Live Demo Link</a>
+
 ## 📄 License
 
 Created by Harsh Parmar
