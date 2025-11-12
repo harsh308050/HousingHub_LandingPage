@@ -73,13 +73,6 @@ const Header = () => {
 
                     {/* Desktop CTA */}
                     <div className="hidden lg:flex items-center gap-3">
-                        <Button
-                            variant="outline"
-                            onClick={() => scrollToSection("pricing")}
-                            className="border-2"
-                        >
-                            Get Started
-                        </Button>
                         <Button onClick={() => window.open("https://drive.google.com/uc?export=download&id=14hoaeZXC2sYIAiwONUtJiveXC4mMu1dL", "_blank")} className="hover-glow">
                             Download App
                         </Button>
